@@ -13,8 +13,9 @@
         "rivendell": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbY2htACca3slEXWnLYeyNga5c0yYRQsFePmp8A13WItec1kQ6_uQ6rngdASzzlaap-sHePn7S71du/pub?gid=0&single=true&output=csv",
             "company": "Rivendell Academy",
-            "title": "Rivendell Academy Tasks",
+            "title": "Rivendell Academy",
             "tagline": "Shaping the Leaders of Tomorrow",
+            "taskheader": "Numerical Quests of the Eldar",
             "logo": "https://res.cloudinary.com/dw6kw35ru/image/upload/v1733920461/logo_yeq9v6.png",
             "about": "Company A specializes in providing exceptional services to its clients.",
             "background": "h-screen w-screen p-4 bg-gradient-to-r from-[#00a884] to-[#00416d]",
@@ -42,6 +43,7 @@
         "company": "MathByDoing – So wird Mathe einfach!!",
         "title": "Mathe BBR & MSA",
         "tagline": "Mathe für die Mittelstufe – verständlich und effektiv",
+        "taskheader": "Numerical Quests of the Eldar",
         "logo": "https://mathbydoing.app/apple-touch-icon.png",
         "about": "This is the default company description.",
         "background": "h-screen w-screen p-4 bg-gradient-to-b from-[#f8f9fa] to-[#e9ecef]",
