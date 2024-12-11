@@ -45,6 +45,6 @@
         "logo": "https://mathbydoing.app/apple-touch-icon.png",
         "about": "This is the default company description.",
         "background": "h-screen w-screen p-4 bg-gradient-to-b from-[#f8f9fa] to-[#e9ecef]",
-        "titlecolor": "#343a40"
+        "titlecolor": "40B9DE"
     }
 }
