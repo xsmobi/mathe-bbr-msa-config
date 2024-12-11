@@ -4,9 +4,19 @@
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4GJUUoom_8yRW9uF9A5rAoDLbEalu-9DM6Pg3rcoxuhwF-TV3bOZ4Ccv2P7tBewEXGQ09qIgCwX0i/pub?gid=0&single=true&output=csv",
             "company": "PracticalPi",
             "title": "Math: Practice and Insights",
-            "tagline": "Master Your Math Skills!",
+            "tagline": "Where Every Problem’s a Slice of Pi(e) and Math is Always Deliciously Easy!",
             "logo": "https://practicalpi.app/fav0.png",
-            "about": "Company A specializes in providing exceptional services to its clients."
+            "about": "PracticalPi: Revolutionizing Math, One Slice at a Time!",
+            "background": "h-screen w-screen p-4 bg-gradient-to-b from-[#f8f9fa] to-[#e9ecef]"
+        },
+        "rivendell": {
+            "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbY2htACca3slEXWnLYeyNga5c0yYRQsFePmp8A13WItec1kQ6_uQ6rngdASzzlaap-sHePn7S71du/pub?gid=0&single=true&output=csv",
+            "company": "Rivendell Academy",
+            "title": "Rivendell Academy Tasks",
+            "tagline": "Shaping the Leaders of Tomorrow",
+            "logo": "https://res.cloudinary.com/dw6kw35ru/image/upload/v1733920461/logo_yeq9v6.png",
+            "about": "Company A specializes in providing exceptional services to its clients.",
+            "background": "h-screen w-screen p-4 bg-gradient-to-r from-[#00a884] to-[#00416d]"
         },
         "user2": {
             "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1example2/pub?output=csv",
