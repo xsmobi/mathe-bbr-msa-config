@@ -7,7 +7,7 @@
             "tagline": "Where Every Problem’s a Slice of Pi(e) and Math is Always Deliciously Easy!",
             "logo": "https://practicalpi.app/fav0.png",
             "about": "PracticalPi: Revolutionizing Math, One Slice at a Time!",
-            "background": "h-screen w-screen p-4 bg-gradient-to-b from-[#f8f9fa] to-[#e9ecef]",
+            "background": "h-screen w-screen p-4 bg-gradient-to-r from-[#2f80ed] to-[#1cb5e0]",
             "titlecolor": "#343a40"
         },
         "rivendell": {
@@ -46,7 +46,7 @@
         "taskheader": "Aufgaben, Beispiele, Lösungen",
         "logo": "https://mathbydoing.app/apple-touch-icon.png",
         "about": "This is the default company description",
-        "background": "h-screen w-screen p-4 bg-gradient-to-b from-[#f8f9fa] to-[#e9ecef]",
+        "background": "h-screen w-screen p-4 bg-gradient-to-r from-[#2f80ed] to-[#1cb5e0]",
         "titlecolor": "40B9DE"
     }
 }
